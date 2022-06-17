@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "62aca6455cf0df20ed3d0a4a"
+  },
+  "name": "Car1V1",
+  "year": 2001,
+  "race": 1000
+},{
+  "_id": {
+    "$oid": "62aca6c35cf0df20ed3d0a4b"
+  },
+  "name": "Car1V2",
+  "year": 2002,
+  "race": 2000
+},{
+  "_id": {
+    "$oid": "62aca6d15cf0df20ed3d0a4c"
+  },
+  "name": "Car1V3",
+  "year": 2002,
+  "race": 3000
+},{
+  "_id": {
+    "$oid": "62aca6e15cf0df20ed3d0a4d"
+  },
+  "name": "Car2V1",
+  "year": 2004,
+  "race": 4000
+},{
+  "_id": {
+    "$oid": "62aca6ee5cf0df20ed3d0a4e"
+  },
+  "name": "Car2V2",
+  "year": 2005,
+  "race": 5000
+},{
+  "_id": {
+    "$oid": "62aca7035cf0df20ed3d0a4f"
+  },
+  "name": "Car3V1",
+  "year": 2006,
+  "race": 6000
+}]

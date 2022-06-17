@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "62aca71b5cf0df20ed3d0a52"
+  },
+  "date_start": {
+    "$date": {
+      "$numberLong": "1655503200000"
+    }
+  },
+  "date_end": {
+    "$date": {
+      "$numberLong": "1655589600000"
+    }
+  },
+  "cost": 1000,
+  "name": "Car1V1"
+},{
+  "_id": {
+    "$oid": "62aca7be5cf0df20ed3d0a53"
+  },
+  "date_start": {
+    "$date": {
+      "$numberLong": "1655589600000"
+    }
+  },
+  "date_end": {
+    "$date": {
+      "$numberLong": "1655676000000"
+    }
+  },
+  "cost": 2000,
+  "name": "Car1V2"
+},{
+  "_id": {
+    "$oid": "62aca7de5cf0df20ed3d0a54"
+  },
+  "date_start": {
+    "$date": {
+      "$numberLong": "1655676000000"
+    }
+  },
+  "date_end": {
+    "$date": {
+      "$numberLong": "1655762400000"
+    }
+  },
+  "cost": 3000,
+  "name": "Car1V3"
+},{
+  "_id": {
+    "$oid": "62aca8005cf0df20ed3d0a55"
+  },
+  "date_start": {
+    "$date": {
+      "$numberLong": "1655848800000"
+    }
+  },
+  "date_end": {
+    "$date": {
+      "$numberLong": "1655935200000"
+    }
+  },
+  "cost": 4000,
+  "name": "Car2V1"
+},{
+  "_id": {
+    "$oid": "62aca8235cf0df20ed3d0a56"
+  },
+  "date_start": {
+    "$date": {
+      "$numberLong": "1655935200000"
+    }
+  },
+  "date_end": {
+    "$date": {
+      "$numberLong": "1656108000000"
+    }
+  },
+  "cost": 5000,
+  "name": "Car2V2"
+},{
+  "_id": {
+    "$oid": "62aca8445cf0df20ed3d0a57"
+  },
+  "date_start": {
+    "$date": {
+      "$numberLong": "1656194400000"
+    }
+  },
+  "date_end": {
+    "$date": {
+      "$numberLong": "1656280800000"
+    }
+  },
+  "cost": 7000,
+  "name": "Car3V1"
+}]
